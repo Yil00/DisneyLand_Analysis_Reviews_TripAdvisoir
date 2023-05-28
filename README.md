@@ -15,6 +15,7 @@ The primary objective of this project is to analyze the Disneyland reviews datas
 ## Repository Structure
 **The repository is structured as follows:**
 
-data/: This directory contains the raw dataset files in CSV format.
+- data/: This directory contains the raw dataset files in CSV format.
+
 README.md: This file provides an overview of the project, dataset description, objectives, and repository structure.
 
